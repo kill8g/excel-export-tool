@@ -49,7 +49,7 @@ Type fields can be decorated with 'key', 'default', 'ignore'.
 - m/mode Working mode(lua, json, xml, sqlite, mongo)
 - o/output Output information, File export path or database information, example : ./test or test.db
 - f/file Excel file
-- n/names Excel worksheet, Press ',' to split, example : Sheet1,Sheet2
+- n/names Excel worksheet, Press ',' to split, An empty parameter will export all worksheets, example : Sheet1,Sheet2
 
 # Example
 ```
