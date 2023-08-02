@@ -28,7 +28,7 @@ Line 4 of the data line begins with @ignore and is ignored.
 | Description | Description | Description | Description | Description |
 |      1      |     1.2     |     abcd    |   [1,2,3]   |  {'a' : 1}  |
 |      1      |     1.2     |     abcd    |{"a" : "abc"}|   (1,2,3)   |
-|             |             |             |             |             |
+|is empty     |             |             |             |             |
 |   @ignore   |     1.2     |     abcd    |   [1,2,3]   |   (1,2,3)   |
 
 Type fields can be decorated with 'key', 'default', 'ignore'.
@@ -42,7 +42,7 @@ Type fields can be decorated with 'key', 'default', 'ignore'.
 | Description | Description | Description | Description | Description |
 |      1      |     1.2     |     abcd    |   [1,2,3]   |  {'a' : 1}  |
 |      1      |     1.2     |     abcd    |{"a" : "abc"}|   (1,2,3)   |
-|             |             |             |             |             |
+|is empty example     |             |             |             |             |
 |   @ignore   |     1.2     |     abcd    |   [1,2,3]   |   (1,2,3)   |
 
 # Script parameter description
