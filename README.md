@@ -1,4 +1,4 @@
-# excel-table-export-tool
+# excel-export-tool
 Export excel data sheets to lua, json, xml, sqlite, mongo
 
 # Notes
