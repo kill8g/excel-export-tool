@@ -1,0 +1,4 @@
+dicttoxml==1.7.16
+luadata==1.0.5
+pymongo==4.5.0
+xlwings==0.30.10
