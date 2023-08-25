@@ -95,6 +95,7 @@ class TableOP():
 
     def __del__(self):
         self.wb.close()
+        self.app.quit()
 
     def error_tips(self, msg, sheet = None, row = None, column = None, value = None):
         log = "<%s>" % (self.path)
